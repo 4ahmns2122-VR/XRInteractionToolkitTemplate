@@ -1,4 +1,4 @@
-# XRInteractionToolkitTemplate
+# HTL-VRProject with XRInteractionToolkit !Template!
 
 ### Project description: 
 This project serves as sample project for spatial audio. 
